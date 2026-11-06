@@ -6,7 +6,7 @@ We developed a simple monitoring system for our university facilities department
 
 The department wants to monitor classroom temperatures and identify when certain conditions fall outside an acceptable range.
 
-## Functionality
+## Functionality/Requirements
 
 * Allows the user to enter classroom temperature readings in Farenheit
 * Determines whether a temp is within the acceptable range of 68F - 76F
